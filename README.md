@@ -91,6 +91,3 @@ Available here - `Pretrained_Weights`.
 
 ## Trained weights
 Available here - `SSL_trained_weights`
-
-## Dataset used
-Available here - `Dataset`
