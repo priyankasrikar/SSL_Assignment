@@ -49,10 +49,10 @@ Non-trainable params: 53,120
 ```
 
 ## Contrastive learning progress
-- The results of simclr training curve can be seen in Simclr_imagenet_subset.ipynb
+- The results of simclr training curve can be seen in Modified/Simclr.ipynb
 
 ## Training with 10% training data using the learned representations (linear evaluation)
-- In linear_Evaluation_Imagenet_subset.ipynb, various experiments with and without project head was conducted.
+- In Modified/linear_Evaluation.ipynb, various experiments with and without project head was conducted.
 - The results of the respective experiments can be seen in the cells.
 
 ## Supervised training with the full training dataset
